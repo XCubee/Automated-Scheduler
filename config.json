@@ -1,0 +1,19 @@
+{
+  "tasks": [
+    {
+      "module": "send_email",
+      "function": "send",
+      "time": "09:00"
+    },
+    {
+      "module": "custom_task",
+      "function": "execute",
+      "time": "*/30"
+    },
+    {
+      "module": "hello_task",
+      "function": "say_hello",
+      "time": "23:51"
+    }
+  ]
+}
