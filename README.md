@@ -1,6 +1,6 @@
-# Automation Scheduler
+# Cubic Engine
 
-A simple, extensible Python automation scheduler. Easily add your own tasks and schedule them with a few lines of code.
+A simple, extensible Python automation . Easily add your own tasks and schedule them with a few lines of code.
 
 ## Features
 - Schedule any Python function to run at specific times or intervals
@@ -41,7 +41,7 @@ def run():
 - `function`: The function to call
 - `time`: When to run ("HH:MM" for daily, "*/N" for every N minutes)
 
-### 4. Run the Scheduler
+### 4. Run the engine
 ```
 python run.py
 ```
